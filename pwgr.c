@@ -18,3 +18,8 @@ struct group *getgrnam(const char *name)
 
 #Square implementation
 def sqiare(x):
+
+#Substract implementation
+
+
+#Divide implementation
